@@ -1,5 +1,14 @@
-## Hi there 👋
+My name is Bryce Jackson, I recently graduated from the University of Maryland with a BS in Information Science. I am ready to learn and I'm eager to jump into the tech field and make an impact. 
+I have had the priveledge to study tech and acquire many different skills over my time at school for Information Technology. 
+**Languages & Programs I've worked with:** Python, SQL, JavaScript, R, C++, HTML/CSS, React, Git/GitHub.
+**Systems and Infrastructure:** Windows Server 2022, Active Directory, Linux (Ubuntu), AWS (EC2, VPC)                                
+**Networking**: TCP/IP, DNS, DHCP, RDP, Ethernet 
+**Cybersecurity Tools:** Nmap, Wireshark, Metasploit, osTicket (instillation, workflow configuration) 
 
+**Here are a few projects I've been working on: **
+1. 
+2. 
+3. 
 <!--
 **bryceej/bryceej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
